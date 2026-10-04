@@ -2,3 +2,4 @@ Team members: kevinzk1144-droid and xihongzhuang
 Favorite programming language: TBD
 TJAEGERXZ1eam motto: TBD
 Set team motto to 'Commit early, commit often'
+Team motto: It works on my machine
